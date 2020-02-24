@@ -3,7 +3,7 @@ using NUnit.Framework;
 namespace NUNIT_1
 {
     [TestFixture]
-    public class testClass
+    public class CalculatorTests
     {
         Calculator objc = new Calculator();
         [Test]
