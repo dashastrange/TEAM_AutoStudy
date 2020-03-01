@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daria/Projects/NUNIT_1/NUNIT_1/NUNIT_1.csproj": {}
+    "/Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/NUNIT_1.csproj": {}
   },
   "projects": {
-    "/Users/daria/Projects/NUNIT_1/NUNIT_1/NUNIT_1.csproj": {
+    "/Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/NUNIT_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daria/Projects/NUNIT_1/NUNIT_1/NUNIT_1.csproj",
+        "projectUniqueName": "/Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/NUNIT_1.csproj",
         "projectName": "NUNIT_1",
-        "projectPath": "/Users/daria/Projects/NUNIT_1/NUNIT_1/NUNIT_1.csproj",
+        "projectPath": "/Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/NUNIT_1.csproj",
         "packagesPath": "/Users/daria/.nuget/packages/",
-        "outputPath": "/Users/daria/Projects/NUNIT_1/NUNIT_1/obj/",
+        "outputPath": "/Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     }

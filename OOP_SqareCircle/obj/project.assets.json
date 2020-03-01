@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daria/Projects/ArraySum/OOP_SqareCircle/OOP_SqareCircle.csproj",
+      "projectUniqueName": "/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/OOP_SqareCircle.csproj",
       "projectName": "OOP_SqareCircle",
-      "projectPath": "/Users/daria/Projects/ArraySum/OOP_SqareCircle/OOP_SqareCircle.csproj",
+      "projectPath": "/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/OOP_SqareCircle.csproj",
       "packagesPath": "/Users/daria/.nuget/packages/",
-      "outputPath": "/Users/daria/Projects/ArraySum/OOP_SqareCircle/obj/",
+      "outputPath": "/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
       }
     }
   }

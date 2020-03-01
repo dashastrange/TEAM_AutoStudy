@@ -13,9 +13,8 @@ namespace OOP_SqareCircle
             Console.WriteLine("Square diagonal: " + square.GetDiagonal());
 
             Console.WriteLine("Input the radius of the circle : ");
-            Circle circle = new Circle();
-            circle.radius = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("S of Circle : " + circle.GetS());
+            Circle circle = new Circle(Convert.ToDouble(Console.ReadLine()));
+            Console.WriteLine("S of Circle : " + circle.GetArea());
             Console.Read();
             Console.WriteLine("Diametr of a circle: " + circle.GetDiametr());
             Console.Read();
@@ -30,7 +29,6 @@ namespace OOP_SqareCircle
             {
                 Console.WriteLine("Square DOESN'T fit inside Circle. Circle fits inside Square");
             }
-
         }
     }
 }

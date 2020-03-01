@@ -7,13 +7,30 @@ namespace OOP_SqareCircle
         public const double PI = 3.14;
         public double Diametr;
 
+        public Circle(double circleRadius)
+        {
+            radius = circleRadius;
+        }
+
+        public double Radius
+        {
+            get
+            {
+                return radius;
+            }
+            set
+            {
+                radius = value;
+            }
+        }
+
         public double GetDiametr()
         {
-            Diametr = Math.Sqrt(GetS() / PI) * 2;
+            Diametr = Math.Sqrt(GetArea() / PI) * 2;
             return Diametr;
         }
 
-        public double GetS()
+        public double GetArea()
         {
             double s_cir = PI * radius * radius;
             return s_cir;

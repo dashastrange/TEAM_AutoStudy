@@ -1,13 +1,15 @@
 ﻿using System;
 namespace OOP_SqareCircle
 {
-    class Square
+    public class Square
     {
         //Square side
-        double side;
-        public Square(double s)
+        public double side;
+        public double squareArea;
+        public Square(double squareSide)
         {
-            side = s;
+            side = squareSide;
+            squareArea = squareSide * 2;
         }
 
         public double Side
@@ -25,7 +27,7 @@ namespace OOP_SqareCircle
         //Square S
         public double GetSquare()
         {
-            return side * side;
+            return squareArea;
         }
 
         //Diagonal
@@ -34,7 +36,5 @@ namespace OOP_SqareCircle
             double Diagonal = side * Math.Sqrt(2);
             return Diagonal;
         }
-        
-
     }
 }
