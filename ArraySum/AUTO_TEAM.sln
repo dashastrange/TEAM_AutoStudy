@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_ArraySum", "AutoTEAM\OOP_ArraySum.csproj", "{E2EBF1DD-A979-4803-895D-155E7BB32A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPractice", "AutoPractice\AutoPractice.csproj", "{45B88894-4DBD-4B69-99FD-212D1C7AF881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_SqareCircle", "OOP_SqareCircle\OOP_SqareCircle.csproj", "{79BBC987-C0C7-42FD-89C9-1967E0F647C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2EBF1DD-A979-4803-895D-155E7BB32A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2EBF1DD-A979-4803-895D-155E7BB32A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2EBF1DD-A979-4803-895D-155E7BB32A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2EBF1DD-A979-4803-895D-155E7BB32A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B88894-4DBD-4B69-99FD-212D1C7AF881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B88894-4DBD-4B69-99FD-212D1C7AF881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B88894-4DBD-4B69-99FD-212D1C7AF881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B88894-4DBD-4B69-99FD-212D1C7AF881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BBC987-C0C7-42FD-89C9-1967E0F647C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BBC987-C0C7-42FD-89C9-1967E0F647C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BBC987-C0C7-42FD-89C9-1967E0F647C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BBC987-C0C7-42FD-89C9-1967E0F647C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

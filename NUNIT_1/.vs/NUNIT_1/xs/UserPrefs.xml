@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NUNIT_1/ScientificCalculatorTests.cs">
+    <Files>
+      <File FileName="NUNIT_1/Calculator.cs" Line="21" Column="26" />
+      <File FileName="NUNIT_1/ScientificCalculator.cs" Line="22" Column="37" />
+      <File FileName="NUNIT_1/ScientificCalculatorTests.cs" Line="24" Column="75" />
+      <File FileName="NUNIT_1/CalculatorTests.cs" Line="31" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NUNIT_1" expanded="True">
+            <Node name="NUNIT_1" expanded="True">
+              <Node name="ScientificCalculatorTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NUNIT_1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
