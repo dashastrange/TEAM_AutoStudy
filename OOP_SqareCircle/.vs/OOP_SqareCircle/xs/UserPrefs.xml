@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{F16CA2E4-FE51-45D0-BC94-26E29722FD19}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SquareCircle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Circle.cs">
     <Files>
-      <File FileName="Circle.cs" Line="8" Column="31" />
-      <File FileName="SquareCircle.cs" Line="1" Column="1" />
+      <File FileName="Circle.cs" Line="37" Column="10" />
+      <File FileName="SquareCircle.cs" Line="35" Column="1" />
       <File FileName="Square.cs" Line="35" Column="10" />
     </Files>
     <Pads>
@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="OOP_SqareCircle" expanded="True">
             <Node name="OOP_SqareCircle" expanded="True">
-              <Node name="SquareCircle.cs" selected="True" />
+              <Node name="Circle.cs" selected="True" />
             </Node>
           </Node>
         </State>

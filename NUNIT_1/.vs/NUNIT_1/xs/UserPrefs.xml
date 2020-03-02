@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="NUNIT_1/ScientificCalculatorTests.cs">
     <Files>
       <File FileName="NUNIT_1/Calculator.cs" Line="21" Column="26" />
-      <File FileName="NUNIT_1/ScientificCalculator.cs" />
-      <File FileName="NUNIT_1/ScientificCalculatorTests.cs" Line="22" Column="10" />
-      <File FileName="NUNIT_1/CalculatorTests.cs" />
+      <File FileName="NUNIT_1/ScientificCalculator.cs" Line="1" Column="1" />
+      <File FileName="NUNIT_1/CalculatorTests.cs" Line="22" Column="45" />
+      <File FileName="NUNIT_1/ScientificCalculatorTests.cs" Line="14" Column="45" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,6 +12,20 @@
           <Node name="NUNIT_1" expanded="True">
             <Node name="NUNIT_1" expanded="True">
               <Node name="ScientificCalculatorTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NUNIT_1" expanded="True">
+            <Node name="NUNIT_1" expanded="True">
+              <Node name="NUNIT_1" expanded="True">
+                <Node name="CalculatorTests" expanded="True" />
+                <Node name="ScientificCalculatorTests" expanded="True">
+                  <Node name="PowTest(4,2,2)" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>

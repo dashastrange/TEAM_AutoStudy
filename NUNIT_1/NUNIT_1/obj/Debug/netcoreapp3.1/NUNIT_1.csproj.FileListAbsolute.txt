@@ -86,7 +86,6 @@
 /Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-/Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/obj/Debug/netcoreapp3.1/NUNIT_1.csprojAssemblyReference.cache
 /Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/obj/Debug/netcoreapp3.1/NUNIT_1.AssemblyInfoInputs.cache
 /Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/obj/Debug/netcoreapp3.1/NUNIT_1.AssemblyInfo.cs
 /Users/daria/Projects/TEAM_AutoStudy/NUNIT_1/NUNIT_1/obj/Debug/netcoreapp3.1/NUNIT_1.csproj.CopyComplete
