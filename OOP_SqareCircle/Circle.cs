@@ -32,8 +32,8 @@ namespace OOP_SqareCircle
 
         public double GetArea()
         {
-            double s_cir = PI * radius * radius;
-            return s_cir;
+            double area_circle = PI * radius * radius;
+            return area_circle;
         }
     }
 }

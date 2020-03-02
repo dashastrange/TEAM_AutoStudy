@@ -8,3 +8,13 @@
 /Users/daria/Projects/ArraySum/OOP_SqareCircle/obj/Debug/netcoreapp3.1/OOP_SqareCircle.AssemblyInfo.cs
 /Users/daria/Projects/ArraySum/OOP_SqareCircle/obj/Debug/netcoreapp3.1/OOP_SqareCircle.dll
 /Users/daria/Projects/ArraySum/OOP_SqareCircle/obj/Debug/netcoreapp3.1/OOP_SqareCircle.pdb
+/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/bin/Debug/netcoreapp3.1/OOP_SqareCircle.deps.json
+/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/bin/Debug/netcoreapp3.1/OOP_SqareCircle.runtimeconfig.json
+/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/bin/Debug/netcoreapp3.1/OOP_SqareCircle.runtimeconfig.dev.json
+/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/bin/Debug/netcoreapp3.1/OOP_SqareCircle.dll
+/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/bin/Debug/netcoreapp3.1/OOP_SqareCircle.pdb
+/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/obj/Debug/netcoreapp3.1/OOP_SqareCircle.csprojAssemblyReference.cache
+/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/obj/Debug/netcoreapp3.1/OOP_SqareCircle.AssemblyInfoInputs.cache
+/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/obj/Debug/netcoreapp3.1/OOP_SqareCircle.AssemblyInfo.cs
+/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/obj/Debug/netcoreapp3.1/OOP_SqareCircle.dll
+/Users/daria/Projects/TEAM_AutoStudy/OOP_SqareCircle/obj/Debug/netcoreapp3.1/OOP_SqareCircle.pdb

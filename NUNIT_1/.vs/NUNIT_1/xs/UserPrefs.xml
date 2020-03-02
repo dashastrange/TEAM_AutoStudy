@@ -3,7 +3,7 @@
     <Files>
       <File FileName="NUNIT_1/Calculator.cs" Line="21" Column="26" />
       <File FileName="NUNIT_1/ScientificCalculator.cs" />
-      <File FileName="NUNIT_1/ScientificCalculatorTests.cs" Line="24" Column="10" />
+      <File FileName="NUNIT_1/ScientificCalculatorTests.cs" Line="22" Column="10" />
       <File FileName="NUNIT_1/CalculatorTests.cs" />
     </Files>
     <Pads>
