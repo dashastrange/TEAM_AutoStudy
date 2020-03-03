@@ -9,7 +9,7 @@ namespace AutoTEAM
         static void Main()
         {
             FilterArrayFindSum();
-            
+
         }
 
         private static void FilterArrayFindSum()
