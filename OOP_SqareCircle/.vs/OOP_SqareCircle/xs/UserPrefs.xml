@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{F16CA2E4-FE51-45D0-BC94-26E29722FD19}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Circle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Validation.cs">
     <Files>
       <File FileName="Circle.cs" Line="37" Column="10" />
-      <File FileName="SquareCircle.cs" Line="35" Column="1" />
-      <File FileName="Square.cs" Line="35" Column="10" />
+      <File FileName="SquareCircle.cs" Line="6" Column="6" />
+      <File FileName="Square.cs" />
+      <File FileName="Validation.cs" Line="37" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OOP_SqareCircle" expanded="True">
             <Node name="OOP_SqareCircle" expanded="True">
-              <Node name="Circle.cs" selected="True" />
+              <Node name="Validation.cs" selected="True" />
             </Node>
           </Node>
         </State>

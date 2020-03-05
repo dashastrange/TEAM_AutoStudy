@@ -6,6 +6,8 @@ namespace OOP_SqareCircle
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine($"Random value will be set after three failed attempts.");
             Console.WriteLine("Input the side of a square : ");
             Square square = new Square(Convert.ToDouble(Console.ReadLine()));
             Console.WriteLine("Side: " + square.Side);

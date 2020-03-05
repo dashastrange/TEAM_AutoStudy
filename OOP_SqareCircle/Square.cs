@@ -24,6 +24,11 @@ namespace OOP_SqareCircle
             }
         }
 
+        internal static bool IsNullOrEmpty(Square square)
+        {
+            throw new NotImplementedException();
+        }
+
         //Square S
         public double GetSquare()
         {

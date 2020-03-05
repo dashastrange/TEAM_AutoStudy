@@ -12,5 +12,7 @@
     <Compile Remove="ISquareFit.cs" />
     <Compile Remove="SquareCircle2.cs" />
     <Compile Remove="SquareCircle2.cs" />
+    <Compile Remove="Validation.cs" />
+    <Compile Remove="Validation.cs" />
   </ItemGroup>
 </Project>
